@@ -2,18 +2,16 @@
 <h1 align="center">Hi 👋, I'm Tanisha</h1>
 <h3 align="center">A passionate engineering student exploring the world of programming!</h3>
 
-- 🔭 I’m currently working on [SnapNewz](https://github.com/TAnisha016/SnapNewz.git)
+- 🔭 I’m currently working on [TeachForGood](https://github.com/TAnisha016/TeachForGood)
 
-- 🌱 I’m currently learning **MongoDB, React, DSA**
+- 🌱 I’m currently learning **MongoDB, React, DSA, Backened Development**
 
 - 📫 How to reach me **tanisha01603@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/tanisha-9908a4282" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tanisha-9908a4282" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/25667235/tanisha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/25667235/tanisha" height="30" width="40" /></a>
-<a href="https://instagram.com/tani_sha2107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tani_sha2107" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://www.geeksforgeeks.org/user/tanishasvrp/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://www.geeksforgeeks.org/user/tanishasvrp/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tanisha-9908a4282/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tanisha-9908a4282" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
