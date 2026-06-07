@@ -53,21 +53,21 @@ I'm a **B.Tech student in Electronics & Communication Engineering (AI)** at IGDT
 
 ## 🚀 Featured Projects
 
-### 📰 [SnapNewz — Full Stack News Aggregator](https://github.com/TAnisha016/SnapNewz)
+### 📰 [SnapNewz — Full Stack News Aggregator](https://snap-newz.vercel.app/)
 > React.js · Express.js · Node.js · NewsAPI · Railway · GitHub Pages
 
 A full-stack app that fetches real-time news with category filters, pagination, and responsive design. Frontend deployed on GitHub Pages, backend on Railway.
 
 ---
 
-### 🤝 [TeachForGood — Volunteer-NGO Matching Platform](https://github.com/TAnisha016/TeachForGood)
+### 🤝 [TeachForGood — Volunteer-NGO Matching Platform](https://sohi07.github.io/TeachForGood/)
 > React.js · Firebase Authentication · HTML · CSS · JavaScript
 
 A platform connecting volunteers with NGOs for skill-based education. Features NGO matching by location, subject selection, and Firebase-based auth.
 
 ---
 
-### 🤖 [MySaathi — AI Learning Companion](https://github.com/TAnisha016/MySaathi)
+### 🤖 [MySaathi — AI Learning Companion](https://my-saathi-rx24.vercel.app/)
 > React 18 · TypeScript · Vercel
 
 Solo hackathon project — converted Figma designs into a live, mobile-first React + TypeScript app with accessible UI components. Deployed on Vercel.
